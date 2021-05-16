@@ -4,7 +4,7 @@
 
 I am a software test automation engineer with having more than 5 years of QA experience and more than 3 years of test automation experience, familiar with the agile discipline, passionate about writing test code, and eager to learn new technologies.
 
-![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=burakkaygusuz&show_icons=true&hide=issues&theme=nord&hide_border=true)
+![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=burakkaygusuz&show_icons=true&hide=issues&theme=graywhite&hide_border=true)
 
 ### 🤝🏻 Connect with Me
 
