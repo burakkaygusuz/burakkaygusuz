@@ -11,6 +11,3 @@ I am a software test automation engineer with having more than 5 years of QA exp
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Burak%20Kaygusuz-006192?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/burakkaygusuz)
 [![Medium Badge](https://img.shields.io/badge/Medium-Burak%20Kaygusuz-lightgrey?style=for-the-badge&logo=medium)](https://burakkaygusuz.medium.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Burak%20Kaygusuz-D44638?style=for-the-badge&logo=gmail)](mailto:kaygusuzburak@gmail.com)
-
-
-![Profile Views](https://gpvc.arturio.dev/burakkaygusuz)
